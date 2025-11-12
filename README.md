@@ -79,9 +79,6 @@
   <img src="https://skillicons.dev/icons?i=docker,mongodb,postman,)&theme=light" />
 </div>
 
-<br>
-<a href="#topo">🔼 Voltar ao Topo</a>
-<br>
 ---
 <br>
 
@@ -99,9 +96,9 @@
   
   <p>
     🔗 <strong>Projeto 02 (Secundário):</strong> 
-    <a href="a">A definir</a>
+    <a href="https://github.com/GutoMitzy/Weather-webstite-with-WeatherApi.git">Website Tempo&Clima</a>
     <br>
-    <em>A definir</em>
+    <em>Projeto aprendendo a utilizar API's e filtragem de dados</em>
   </p>
   
   <p>
@@ -110,9 +107,7 @@
   </p>
 </div>
 
-<br>
-<a href="#topo">🔼 Voltar ao Topo</a>
-<br>
+
 ---
 <br>
 
@@ -128,6 +123,10 @@
     <img src="https://img.shields.io/badge/EMAIL-BB001B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+<br>
+<a href="#topo">🔼 Voltar ao Topo</a>
+<br>
 
 <br>
 
