@@ -116,24 +116,6 @@
 ---
 <br>
 
-<h2 id="stats" align="center">
-  [ 03. STATUS: CONTRIBUIÇÕES ]
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GutoMitzy&theme=dark&hide_border=true&border_radius=4.5&date_format=j%20M%5B%20Y%5D" alt="Estatísticas de Sequência (Streak)" />
-  
-  <br>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GutoMitzy&theme=radical" alt="Cartão de Resumo de Perfil"/>
-</div>
-
-<br>
-<a href="#topo">🔼 Voltar ao Topo</a>
-<br>
----
-<br>
-
 <h2 id="contato" align="center">
   [ 04. CONTATO: CANAIS DE COMUNICAÇÃO ]
 </h2>
