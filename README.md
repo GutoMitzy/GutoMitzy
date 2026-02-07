@@ -88,14 +88,14 @@
 
 <div align="center">
   <p>
-    🔗 <strong>Projeto 01 (Principal):</strong> 
-    <a href="https://github.com/GutoMitzy/APIs-RESTful-com-Node.js-Express-e-Mongoose.git)">API de Controle Financeiro</a>
+    🔗 <strong>Projeto 01:</strong> 
+    <a href="https://github.com/GutoMitzy/APIs-RESTful-com-Node.js-Express-e-Mongoose.git">API de Controle Financeiro</a>
     <br>
     <em>Projeto desenvolvido estudando sobre API's na UCS.</em>
   </p>
   
   <p>
-    🔗 <strong>Projeto 02 (Secundário):</strong> 
+    🔗 <strong>Projeto 02:</strong> 
     <a href="https://github.com/GutoMitzy/Weather-webstite-with-WeatherApi.git">Website Tempo&Clima</a>
     <br>
     <em>Projeto aprendendo a utilizar API's e filtragem de dados</em>
@@ -103,7 +103,9 @@
   
   <p>
     ⭐ <strong>Meu Repositório Favorito:</strong> 
-    <a href="A definir">A definir</a>
+    <a href="https://github.com/GutoMitzy/video-and-image-to-ascii.git">Video/Image To ASCII</a>
+    <br>
+    <em>Aprendendo funcionamento de pixels em imagens e vídeos</em>
   </p>
 </div>
 
