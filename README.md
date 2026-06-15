@@ -53,7 +53,7 @@
     <tbody>
       <tr>
         <td><strong>Idade</strong></td>
-        <td><code>18 anos</code></td>
+        <td><code>19 anos</code></td>
       </tr>
       <tr>
         <td><strong>Interesses:</strong></td>
