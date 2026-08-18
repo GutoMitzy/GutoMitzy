@@ -72,11 +72,13 @@
 
   <br>
 
-  <h3>Tecnologias Essenciais (Core Stack)</h3>
-  <img src="https://skillicons.dev/icons?i=js,py,c"/>
+<h3>Tecnologias Essenciais (Core Stack)</h3> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,py,c,mysql,postgresql,mongodb" />
 
-  <h3>Outras Habilidades (Auxiliary Tools)</h3>
-  <img src="https://skillicons.dev/icons?i=docker,mongodb,postman,)&theme=light" />
+<br>
+<h3>Outras Habilidades (Auxiliary Tools)</h3> <img src="https://skillicons.dev/icons?i=docker,rabbitmq,postman,junit,streamlit" />
+<br>
+<code>JWT • REST APIs • Spring Data JPA • Spring Security • Mockito</code>
+
 </div>
 
 ---
